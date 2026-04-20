@@ -1,0 +1,11 @@
+Telemetry Login Test File
+
+This text file is a simple artifact for telemetry-related testing.
+
+Suggested checks:
+- Open or read this file during a test run.
+- Confirm file access is captured by your telemetry flow if applicable.
+- Verify timestamps, session data, and event names in the resulting logs.
+
+Expected result:
+The telemetry output should make it clear that this test artifact was part of the run.

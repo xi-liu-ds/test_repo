@@ -26,6 +26,10 @@ Use this repo to verify that telemetry events are emitted, captured, and easy to
 
 You should be able to trace a full test session from startup to shutdown with clear, structured telemetry entries.
 
+## Test Artifact
+
+Use [telemetry-login-test.txt](./telemetry-login-test.txt) as a simple file-based artifact during telemetry testing.
+
 ## Notes
 
 This README is intentionally simple and is meant only to support telemetry logging tests.
